@@ -35,8 +35,8 @@ assetsSummary:
   - ElectricalSeries
   - ElectrodeGroup
 citation: Tchoe, Youngbin (2024) An electroencephalogram microdisplay to visualize
-  neuronal activity on the brain surface (Version draft) [Data set]. DANDI archive.
-  https://dandiarchive.org/dandiset/000932/draft
+  neuronal activity on the brain surface (Version 0.240317.0101) [Data set]. DANDI
+  archive. https://doi.org/10.48324/dandi.000932/0.240317.0101
 contributor:
 - affiliation: []
   email: ybtchoe@gmail.com
@@ -54,6 +54,7 @@ description: These datasets contain electrocorticography recordings from the bra
   neuronal activity on the brain surface'. The data includes noise that can be filtered
   out. For detailed instructions on this process, please consult the accompanying
   journal article.
+doi: 10.48324/dandi.000932/0.240317.0101
 ethicsApproval:
 - contactPoint:
     schemaKey: ContactPoint
@@ -63,13 +64,13 @@ ethicsApproval:
     schemaKey: ContactPoint
   identifier: UCSD Institutional Animal Care and Use Committee protocol S19030
   schemaKey: EthicsApproval
-id: DANDI:000932/draft
+id: DANDI:000932/0.240317.0101
 identifier: DANDI:000932
 keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000932/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000932/0.240317.0101/assets.yaml
 name: An electroencephalogram microdisplay to visualize neuronal activity on the brain
   surface
 protocol: []
@@ -90,8 +91,8 @@ repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.6
 studyTarget: []
-url: https://dandiarchive.org/dandiset/000932/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000932/0.240317.0101
+version: 0.240317.0101
 wasGeneratedBy:
 - identifier: NIBIB DP2-EB029757
   name: Bringing Light to Functional Mapping in Resective Neurosurgery
